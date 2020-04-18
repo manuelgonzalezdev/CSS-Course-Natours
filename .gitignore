@@ -1,4 +1,7 @@
 node_modules/
 yarn.lock
 
+// Temporal style files
+style.*.css
+
 .DS_Store
